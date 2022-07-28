@@ -1,2 +1,2 @@
 # N_Puzzle
- A program used to solve the puzzle of all Puzzle's sizes in a perfect way.
+ A program use to solve the puzzle of all Puzzle's sizes in a perfect way.
